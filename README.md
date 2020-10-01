@@ -38,7 +38,6 @@ Playing with logic gates, find my approach to make decison making cirucits.
 35. Half Substractor using Nand
 36. Half Substractor
 37. J K Flip Flop
-38. J K flip flop0
 39. S R Flip Flop
 40. Sine_Discrete
 41. T Flip Flop
